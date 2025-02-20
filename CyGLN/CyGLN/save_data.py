@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time : 2021/8/10 4:23
-# @Author : ZM7
-# @File : save_data.py
-# @Software: PyCharm
 
 import os
 import datetime
