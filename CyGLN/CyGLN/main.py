@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time : 2021/9/14 4:28
-# @Author : ZM7
-# @File : main
-# @Software: PyCharm
 import random
 
 import torch
