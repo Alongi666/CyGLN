@@ -1,9 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time : 2021/9/14 4:28
-# @Author : ZM7
-# @File : hgls
-# @Software: PyCharm
+
 import random
 import torch
 import torch.nn as nn
