@@ -1,9 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time : 2021/7/6 3:31
-# @Author : ZM7
-# @File : hrgnn.py
-# @Software: PyCharm
+
 import dgl
 import numpy as np
 import torch
