@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time : 2021/7/5 3:19
-# @Author : ZM7
-# @File : generate_data
-# @Software: PyCharm
 
 import dgl
 import os
