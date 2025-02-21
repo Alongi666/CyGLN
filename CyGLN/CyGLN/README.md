@@ -1,4 +1,4 @@
-# HGLS
+# CyGLN
 
 This repository contains the code for the ACM Web Conference (WWW') 2023 paper titled "Learning Long- and short-term representations for Temporal Knowledge Graph Reasoning".
 
